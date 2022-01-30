@@ -4,6 +4,8 @@ I have seen studies done using the MNIST dataset.
 
 # Dataset:
 The MNIST dataset can be found here http://yann.lecun.com/exdb/mnist/
+![image](https://user-images.githubusercontent.com/50918318/151715852-df35f33e-aee1-4051-ab53-bf500cb8422e.png)
+
 
 # Goal:
 The paper I am attempting to duplicate is Handwritten Digits Identification using Mnist Database Via Machine Learning Models. They used multiple types of models such as Support Vector Machine, Multilayer Perceptron, Decision Tree, Naïve Bayes, K-Nearest Neighbor, and Random Forest. I will attempt to use these models on the MNIST dataset as well and see if I can get a similar accuracy on them. 
