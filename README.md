@@ -1,5 +1,5 @@
 
-# Identifying handwritren numbers using Machine Learning
+# Identifying handwrittren numbers using Machine Learning
 I am Rachel Conforti this project is for ITCS5156 - Applied Machine Learning taken in Spring 2022 at University of North Carolina at Charlotte. This is a 8-week accelerated course.
 
 # Dataset:
