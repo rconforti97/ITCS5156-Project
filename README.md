@@ -11,7 +11,7 @@ The way I used the dataset in my project was by using the skleran dataset import
   digits is the MNIST dataset. 
 
 
-# Goal:
+# Goal and Weekly Updates:
 The paper I am attempting to duplicate is Handwritten Digits Identification using Mnist Database Via Machine Learning Models. They used multiple types of models such as Support Vector Machine, Multilayer Perceptron, Decision Tree, Naïve Bayes, K-Nearest Neighbor, and Random Forest. I will attempt to use these models on the MNIST dataset as well and see if I can get a similar accuracy on them. 
 
 ###### Week 1:
