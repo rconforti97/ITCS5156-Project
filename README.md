@@ -1,6 +1,6 @@
 
 # Identifying handwritren numbers using Machine Learning
-For ITCS5156 - Applied Machine Learning, Spring 2022. This is a 8-week accelrated course at University of North Carolina at Charlotte.
+I am Rachel Conforti this project is for ITCS5156 - Applied Machine Learning taken in Spring 2022 at University of North Carolina at Charlotte. This is a 8-week accelrated course.
 
 # Dataset:
 The MNIST dataset can be found here http://yann.lecun.com/exdb/mnist/
@@ -12,7 +12,7 @@ The way I used the dataset in my project was by using the skleran dataset import
 # Goal:
 The paper I am attempting to duplicate is Handwritten Digits Identification using Mnist Database Via Machine Learning Models. They used multiple types of models such as Support Vector Machine, Multilayer Perceptron, Decision Tree, Naïve Bayes, K-Nearest Neighbor, and Random Forest. I will attempt to use these models on the MNIST dataset as well and see if I can get a similar accuracy on them. 
 
-## Week 1:
+###### Week 1:
 I completed the Support Vector Machine, Multilayer Perceptron, Decision Tree, Naïve Bayes, K-Nearest Neighbor, and Random Forest. I completed the side by side bar chart of accuracy and I placed in confusion matrixs as well. The paper did not use confusion matrixs but I thought this would be a fun and interesting addition. This can all be seen in the project file.
 
 # Citation:
