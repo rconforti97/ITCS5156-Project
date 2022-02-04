@@ -7,6 +7,8 @@ The MNIST dataset can be found here http://yann.lecun.com/exdb/mnist/
 ![image](https://user-images.githubusercontent.com/50918318/151715870-646c140d-e907-48eb-9e58-72465c6e8499.png)
 
 The way I used the dataset in my project was by using the skleran dataset import to make this simple.
+  from sklearn import datasets
+  digits is the MNIST dataset. 
 
 
 # Goal:
