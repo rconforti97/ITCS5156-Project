@@ -16,6 +16,9 @@ The paper I am attempting to duplicate is Handwritten Digits Identification usin
 ###### Week 1:
 I completed the Support Vector Machine, Multilayer Perceptron, Decision Tree, Naïve Bayes, K-Nearest Neighbor, and Random Forest. I completed the side by side bar chart of accuracy and I placed in confusion matrixs as well. The paper did not use confusion matrixs but I thought this would be a fun and interesting addition. This can all be seen in the project file.
 
+###### Week 2:
+Was informedthat my dataset was a benchmark dataset and should change. I will be testing out different image datasets to replicate the paper. I have a few that I messing around with and seeing how I like them.
+
 # How to run the project
 Open up andaconda, and run the project line by line waiting for each cell to populate. 
 
