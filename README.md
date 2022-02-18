@@ -5,12 +5,14 @@ I am Rachel Conforti this project is for ITCS5156 - Applied Machine Learning tak
 # Dataset:
 The MNIST dataset can be found here http://yann.lecun.com/exdb/mnist/
 ![image](https://user-images.githubusercontent.com/50918318/151715870-646c140d-e907-48eb-9e58-72465c6e8499.png)
+
 The way I used the dataset in my project was by using the skleran dataset import to make this simple.
   from sklearn import datasets
   digits is the MNIST dataset. 
   
 The Fruit datset can be found here https://www.kaggle.com/moltean/fruits
 ![image](https://user-images.githubusercontent.com/50918318/154775067-081ad4fa-9815-4076-84fd-5fa1c72d9259.png)
+
 This was a bit more invloved trying to use this dataset. Download the dataset from Kaggle it is to large to import here.  
 
 # Goal and Weekly Updates:
