@@ -22,13 +22,13 @@ The paper I am attempting to duplicate is Handwritten Digits Identification usin
 I completed the Support Vector Machine, Multilayer Perceptron, Decision Tree, Naïve Bayes, K-Nearest Neighbor, and Random Forest. I completed the side by side bar chart of accuracy and I placed in confusion matrixs as well. The paper did not use confusion matrixs but I thought this would be a fun and interesting addition. This can all be seen in the project file.
 
 ###### Week 2:
-Was informedthat my dataset was a benchmark dataset and should change. I will be testing out different image datasets to replicate the paper. I have a few that I messing around with and seeing how I like them.
+Was informed that my dataset was a benchmark dataset and should change. I will be testing out different image datasets to replicate the paper. I have a few that I messing around with and seeing how I like them. I tested quite a few datasets throughout the week such as handwritten letter datatsets, russian hand writing datasets, zoo animal classification datasets. However, I have decided to use the Fruits 360 dataset because of all the datasets I have looked at it seems the most clean. In attempts of using the other datasets there was a lot of issues over simple calls. 
 
 ###### Week 3:
-I spent this week trying to figure out how to import the dataset and make it useable. It was a adventure trying to set this up but it got done.
+I spent this week trying to figure out how to import the dataset and make it useable. It was a adventure trying to set this up but it got done. It took a lot of googleing and learning about the cv2 image calls to configure the dataset into a greyscale dataset and then into a binary grey scale dataset. The difference here is that greyscale is a array of various white, blacks, and greys to shade the photos. However, bianry greyscale is stricly white or black creating harsher and 
 
 ##### Week 4:
-I finished the code to do both greyscale photos and binary scale photos. I got it printing out both models for each set. I am going a little adrift from my paper due to the change in dataset so I will be comparing how this data is working compared to the MNIST dataset. 
+I finished the code to do both greyscale photos and binary scale photos. I got it printing out both models for each set. I am going a little adrift from my paper due to the change in dataset so I will be comparing how this data is working compared to the MNIST dataset. Both datasets are working for the Support Vector Machine, Multilayer Perceptron, Decision Tree, Naïve Bayes, K-Nearest Neighbor, and Random Forest models. If I have time I will go and get the confusion matrix's working for the Fruit dataset. However, I think my main issue is that my Naïve Bayes is scoring incrediably low for some reason and I would like to figure out why. First, I will complete my presentation slides and ensure thats ready to go before I mess with any more code. 
 
 # How to run the project
 Open up andaconda, and run the project line by line waiting for each cell to populate. I seperated each into their own juypter notebook to make it a bit more readable
