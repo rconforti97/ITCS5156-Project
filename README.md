@@ -2,8 +2,12 @@
 # Machine Learning Classification on Fruit and MNIST dataset
 I am Rachel Conforti this project is for ITCS5156 - Applied Machine Learning taken in Spring 2022 at University of North Carolina at Charlotte. This is a 8-week accelerated course.
 
+# How to run the project
+Open up andaconda, and run the project line by line waiting for each cell to populate. I seperated each into their own juypter notebook to make it a bit more readable. You will have to download the dataset from below for the Fruit 360, I could not get the large amount of images to load without github telling me I was uploading to many things at once. 
+
 # Dataset:
 The MNIST dataset can be found here http://yann.lecun.com/exdb/mnist/
+
 ![image](https://user-images.githubusercontent.com/50918318/151715870-646c140d-e907-48eb-9e58-72465c6e8499.png)
 
 The way I used the dataset in my project was by using the skleran dataset import to make this simple.
@@ -11,6 +15,7 @@ The way I used the dataset in my project was by using the skleran dataset import
   digits is the MNIST dataset. 
   
 The Fruit datset can be found here https://www.kaggle.com/moltean/fruits
+
 ![image](https://user-images.githubusercontent.com/50918318/154775067-081ad4fa-9815-4076-84fd-5fa1c72d9259.png)
 
 This was a bit more invloved trying to use this dataset. Download the dataset from Kaggle it is to large to import here.  
@@ -33,9 +38,6 @@ I finished the code to do both greyscale photos and binary scale photos. I got i
 ###### Week 5:
 I completed my presentation, my final report, and final touches on the code. I really wanted to go back and reduce the redundancy in my methods that I knew was there. So, clearing up by simply removing double calls and for if loops in the code when single calls were only needed for the binary dataset. 
 
-
-# How to run the project
-Open up andaconda, and run the project line by line waiting for each cell to populate. I seperated each into their own juypter notebook to make it a bit more readable
 
 # Citation:
 Gope, Birjit, et al. "Handwritten Digits Identification using Mnist Database Via	Machine	Learning Models." IOP Conference Series.Materials Science and	Engineering, vol. 1022, no. 1, 2021. ProQuest, https://www.proquest.com/scholarly-journals/handwritten-digitsidentification-using-mnist/docview/2601103602/se-2,	doi:http://dx.doi.org/10.1088/1757-899X/1022/1/012108
